@@ -13,7 +13,7 @@ tags:
 
 I will say right up front that the end of this story will not be happy, but I guarantee is still a great story with  a lot of knowledge. My first interview with Amazon, more specifically with the AWS team, brought challenges, code problems, anxiety, and nervousness. But, it is OK, this is part of any software developer’s day. Let’s start!
 
-<img src="/assets/amazon_image_blog.png">
+<img src="/assets/amazon_imagem_blog.png">
 
 It all started when a recruiter sent me a message on LinkedIn asking if I wanted to participate in the selection process. Immediately, I said yes and sent my resume. 
 
@@ -62,11 +62,14 @@ The questions asked would be based in these principles, that’s why it’s very
 <i>
 Interview: “What improvements have you made at your current company?”
 Candidate: “We were using an Enterprise Service Bus in our project for SOA, and one of the functions we use it for is to record the time when a web service request arrives at our platform and when the response leaves the platform. Logging this information helps us measure response-time performance analysis for each web service. The response-time data were stored in a database which has grown very big as the platform has expanded over the years. 
-
+</i>
+<i>
 We needed to keep the growth of the database in check. Per project requirements, it was also necessary to keep data available for three months online and one year in an offline storage. 
-
+</i>
+<i>
 I developed a tool that met and automated the requirements. Once the user configures the tool, it automatically finds the table partitions in scope, backs up those partitions, zips up the backup, and then moves the backup to tapes. As the final step, it generates SQL script files to clean up the partitions that it had backed up. 
-
+</i>
+<i>
 As a result of this automation, we saved at least one to two days of effort per month. We are also using this tool to clean up the logs for provisioning history from customer records.
 “
 </i>
