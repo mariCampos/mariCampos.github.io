@@ -23,7 +23,8 @@ The dream came back and I started the interview process. First: Codility test, t
 
 <i>
 1) Given a string "aaabbbcc", compress it, = "a3b3c2" . Given  that output string's length is always smaller than input string, you have to do it inplace. No extra space.
-
+</i>
+<i>
 2) Given a string S and and String T, return:
 <ul>
 <li>"INSERT x" if string S can be obtained from String T by at most one insertion of character x.
@@ -51,12 +52,14 @@ STAR is an interview response method that helps you to give concise answers with
 </ul>
 
 You can see more here:
-<a>https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629</a>
+<a href="https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629">https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629</a>
 
 This is very helpful, I will try to use this in my life! 
 
 Another thing that I had to learn were the Amazon Leadership Principles which are 14 leadership principles that guide the company. You can read the principles here:
-https://www.aboutamazon.com/working-at-amazon/our-leadership-principles
+
+<p><a href="https://www.aboutamazon.com/working-at-amazon/our-leadership-principles">https://www.aboutamazon.com/working-at-amazon/our-leadership-principles</a></p>
+
 The questions asked would be based in these principles, that’s why it’s very important to know them. They are not difficult to learn and your recruiter will send material to prepare you. The point is: You should link these principles with your professional experience. This is an example:
 
 <i>
@@ -97,15 +100,18 @@ This experience was amazing, I really enjoyed this process. I will not give up, 
 
 Even though it wasn’t a happy ending, that dream didn't went to the end of the line, it is one of the priorities now. I will continue to study more English, solve programming challenges and learn about Python. It's just the beginning. 
 
-If you have any suggestions, please let me know, contact me in my social medias. i will love to hear you!
+If you have any suggestions, please let me know, contact me in my social medias. I will love to hear you!
+
+I want to thank my friend Rebeca Sarai (<b><a href="https://github.com/rsarai">@rsarai</a></b>) for encourage me to write and review this text.
 
 Some sites helped me a lot, if you want or you will participated in a interview, you should see those sites:
-<a>https://leetcode.com/</a>
-<a>https://practice.geeksforgeeks.org/</a>
-<a>https://www.hackerrank.com/</a>
-<a>https://www.codility.com/</a>
+<br>
+<p><a href="https://leetcode.com/">https://leetcode.com/</a></p>
+<p><a href="https://practice.geeksforgeeks.org/">https://practice.geeksforgeeks.org/</a></p>
+<p><a href="https://www.hackerrank.com/">https://www.hackerrank.com/</a></p>
+<p><a href="https://www.codility.com/">https://www.codility.com/</a></p>
 
 Specific to Amazon interviews:
 
-<a>https://www.amazon.jobs/pt/principles</a>
-<a>https://interviewgenie.com/blog-1/category/Amazon+interviews</a>
+<p><a href="https://www.amazon.jobs/pt/principles">https://www.amazon.jobs/pt/principles</a></p>
+<p><a href="https://interviewgenie.com/blog-1/category/Amazon+interviews">https://interviewgenie.com/blog-1/category/Amazon+interviews</a></p>
